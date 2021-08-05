@@ -13,8 +13,8 @@
 <br />
 
 My Personal Stuffs:
-- 👀 I’m currently working at Smartleaven Technologies.
-- 🌱 I’m currently learning QT Framework in C++, Flask Web Development in Python.
+- 👀 I’m currently working at Verolt Engineering.
+- 🌱 I’m currently learning QT Framework in C++, OpenGL.
 - 💞️ I’m looking to collaborate on AI/ML Projects in Python.
 - 📫 How to reach me : sumedhkadam@outlook.com;
 
